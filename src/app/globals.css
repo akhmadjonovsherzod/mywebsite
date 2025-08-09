@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  /* Define a cohesive colour palette for the site. These variables are
+     consumed by Tailwind's `@theme inline` directive to generate the
+     corresponding utility classes (e.g. bg-primary, text-muted-foreground). */
+  --primary: #0070f3; /* bright blue for call‑to‑action buttons */
+  --primary-foreground: #ffffff;
+  --accent: #f4f4f5; /* light gray for subtle accents */
+  --border: #e5e5e5;
+  --muted-foreground: #6b7280; /* neutral gray for secondary text */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  /* Map custom palette into Tailwind colour tokens */
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-accent: var(--accent);
+  --color-border: var(--border);
+  --color-muted-foreground: var(--muted-foreground);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --primary: #60a5fa;
+    --primary-foreground: #0a0a0a;
+    --accent: #1f2937;
+    --border: #2d2d2d;
+    --muted-foreground: #9ca3af;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}

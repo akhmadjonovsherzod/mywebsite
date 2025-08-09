@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Databel Customer Churn",
+    "slug": "databel-customer-churn",
+    "summary": "Exploratory data analysis and logistic regression to predict churn in a telecom dataset.",
+    "tags": ["Python", "Pandas", "Logistic Regression"],
+    "repo": "https://github.com/akhmadjonovsherzod/Databel-Customer-Churn",
+    "featured": true
+  },
+  {
+    "title": "Demographics Change Analysis",
+    "slug": "demographics-change-analysis",
+    "summary": "Population and demographic trends analysis using census data and visualisation.",
+    "tags": ["Python", "Pandas", "Matplotlib"],
+    "repo": "https://github.com/akhmadjonovsherzod/Demographics-Change-Analysis",
+    "featured": true
+  },
+  {
+    "title": "Fond Rouge Analysis Report",
+    "slug": "fondrouge-analysis-report",
+    "summary": "Red wine quality classification using logistic regression, random forest and gradient boosting.",
+    "tags": ["Python", "Machine Learning"],
+    "repo": "https://github.com/akhmadjonovsherzod/FondRougeAnalysisReport",
+    "featured": true
+  },
+  {
+    "title": "JP Morgan Quant Research",
+    "slug": "jp-morgan-quant-research",
+    "summary": "Solutions for JP Morgan’s quant research tasks using Python and financial modelling.",
+    "tags": ["Python", "Finance", "Data Analysis"],
+    "repo": "https://github.com/akhmadjonovsherzod/JP-Morgan-Quant-Research"
+  },
+  {
+    "title": "Retail Analytics",
+    "slug": "retail-analytics",
+    "summary": "End-to-end retail analytics with Pandas and Power BI, including executive dashboards.",
+    "tags": ["Python", "Pandas", "Power BI"],
+    "repo": "https://github.com/akhmadjonovsherzod/Retail-Analytics"
+  },
+  {
+    "title": "Game Industry Report",
+    "slug": "gameindustry-report",
+    "summary": "A deep dive into gaming industry revenue trends, demographics and platform comparisons.",
+    "tags": ["Python", "Power BI"],
+    "repo": "https://github.com/akhmadjonovsherzod/GameIndustryReport"
+  },
+  {
+    "title": "SAS Movie Analysis",
+    "slug": "sas-movie-analysis",
+    "summary": "Descriptive analytics of movie datasets using SAS to explore box office performance.",
+    "tags": ["SAS", "Analytics"],
+    "repo": "https://github.com/akhmadjonovsherzod/SAS-Movie-Analysis"
+  },
+  {
+    "title": "EduOn-2",
+    "slug": "eduon-2",
+    "summary": "A responsive educational platform built with React and Tailwind for interactive lessons.",
+    "tags": ["JavaScript", "React", "Tailwind"],
+    "repo": "https://github.com/akhmadjonovsherzod/EduOn-2"
+  },
+  {
+    "title": "Instagram Clone (React)",
+    "slug": "instagram-clone-react-js",
+    "summary": "Instagram clone featuring authentication, photo feed, likes and comments using React and Firebase.",
+    "tags": ["JavaScript", "React", "Firebase"],
+    "repo": "https://github.com/akhmadjonovsherzod/Instagram-Clone-React.js"
+  },
+  {
+    "title": "Netflix Clone (React)",
+    "slug": "netflix-clone-react-js",
+    "summary": "Netflix clone built with React and TMDB API featuring dynamic movie lists and search.",
+    "tags": ["JavaScript", "React", "API"],
+    "repo": "https://github.com/akhmadjonovsherzod/Netflix-Clone-React.js"
+  },
+  {
+    "title": "Deals Hunter Bot",
+    "slug": "dealshunterbot",
+    "summary": "Python bot that tracks e-commerce deals and notifies users of significant discounts via Telegram.",
+    "tags": ["Python", "Web Scraping", "Automation"],
+    "repo": "https://github.com/akhmadjonovsherzod/DealsHunterBot"
+  }
+]
